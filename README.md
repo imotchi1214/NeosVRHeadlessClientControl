@@ -1,7 +1,9 @@
 # 【NHCC】NeosVR Headless Client Control  
 ### [Neos VR](https://neos.com/)のHeadless ClientをGUI（画面上のボタンなどのUI）で操作することができるアプリケーションです。  
-※Windows向け
+※Windows向け  
+<br>
 Japanese followed by English.
+<br>
 <br>
 ![SS_NHCC_640](https://user-images.githubusercontent.com/70529267/177360855-2f17738c-1bef-40e7-b9a8-143a55c40c0c.png)
 <br>
