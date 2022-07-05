@@ -12,7 +12,7 @@ https://github.com/imotchi1214/NeosVRHeadlessClientControl/issues
 <br>
 <br>
 ## 連絡先
-@imotchi0112_vr
+[@imotchi0112_vr](https://twitter.com/imotchi0112_vr)
 <br>
 <br>
 ## インストールについて
