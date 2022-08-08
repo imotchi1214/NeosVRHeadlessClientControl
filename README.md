@@ -30,7 +30,7 @@ Japanese followed by English.
 ※「Program Files(x86)」などのフォルダで書き込み権限が制限されている場合は正常に動作しません。Cドライブ直下やデスクトップなどに配置してください。
 <br>
 <br>
-### 2.「NHCC」フォルダの「NHCC.exe」を実行してください。
+### 2.「NHCC」フォルダの「NeosVRHeadlessClientControl.exe」を実行してください。
 「windowsによってpcが保護されました」と表示された場合は、「詳細情報」のリンクをクリックすることで「実行」ボタンが表示されます。
 <br>
 <br>
@@ -58,7 +58,7 @@ Please feel free to submit bugs and requests at [here](https://github.com/imotch
 *If write permission is restricted on folders such as "Program Files(x86)", it will not work properly. please place it directly under C drive or on the desktop, etc.
 <br>
 <br>
-### 2. Execute "NHCC.exe" in the "NHCC" folder.
+### 2. Execute "NeosVRHeadlessClientControl.exe" in the "NHCC" folder.
 If the message "pc has been protected by windows" is displayed, click the "More Information" link to display the "Run" button.
 <br>
 <br>
