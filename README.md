@@ -35,8 +35,14 @@ Japanese followed by English.
 <br>
 <br>
 ## NHCCの紹介記事
+Noteの記事
 https://note.com/imotchi0112/n/n6f011171e77d  
 <br>
+Tweet
+https://twitter.com/imotchi0112_vr/status/1474756760410161155?s=20&t=latkZwSpfP7r0xoYz23fGA
+<br>
+<br>
+＜以下、英語の同内容＞
 <br>
 <br>
 ### This application allows you to operate the Headless Client of [Neos VR](https://neos.com/) with GUI (UI such as buttons on the screen).  
