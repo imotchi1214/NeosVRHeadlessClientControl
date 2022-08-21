@@ -15,28 +15,28 @@ Japanese followed by English.
 <br>
 <br>
 ## ⬇アプリケーションの入手
-最新版は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/releases)からダウンロードできます。
+　最新版は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/releases)からダウンロードできます。
 <br>
 <br>
 ## 🐞バグ・要望
-バグや要望は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/issues)からお気軽にどうぞ。
+　バグや要望は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/issues)からお気軽にどうぞ。
 <br>
 <br>
 ## ✉連絡先
-[@imotchi0112_vr](https://twitter.com/imotchi0112_vr)
+　[@imotchi0112_vr](https://twitter.com/imotchi0112_vr)
 <br>
 <br>
 ## 🔎インストール方法やその他操作方法など
 
-こちらの[Wiki](https://github.com/imotchi1214/NeosVRHeadlessClientControl/wiki)をご確認ください。
+　こちらの[Wiki](https://github.com/imotchi1214/NeosVRHeadlessClientControl/wiki)をご確認ください。
 <br>
 <br>
 ## 📷NHCCの紹介
+
+　Note：[記事](https://note.com/imotchi0112/n/n6f011171e77d)
 <br>
-Note：[記事](https://note.com/imotchi0112/n/n6f011171e77d)
-<br>
-<br>
-Twitter：[ツイート](https://twitter.com/imotchi0112_vr/status/1474756760410161155?s=20&t=latkZwSpfP7r0xoYz23fGA)
+
+　Twitter：[ツイート](https://twitter.com/imotchi0112_vr/status/1474756760410161155?s=20&t=latkZwSpfP7r0xoYz23fGA)
 <br>
 <br>
 <br>
