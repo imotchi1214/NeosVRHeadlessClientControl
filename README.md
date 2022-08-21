@@ -1,5 +1,5 @@
 # 【NHCC】NeosVR Headless Client Control  
-### [Neos VR](https://neos.com/)のHeadless ClientをGUI（画面上のボタンなどのUI）で操作することができるアプリケーションです。  
+### [Neos VR](https://neos.com/)のHeadless Clientを画面のボタンなどで操作できるようにしたアプリケーションです。
 ※Windows向け  
 <br>
 Japanese followed by English.
@@ -8,38 +8,37 @@ Japanese followed by English.
 ![SS_NHCC_640](https://user-images.githubusercontent.com/70529267/177360855-2f17738c-1bef-40e7-b9a8-143a55c40c0c.png)
 <br>
 <br>
-## イメージ/Impression
+## 🖼イメージ  
 ![Image1_JA_NHCC_640](https://user-images.githubusercontent.com/70529267/177363902-19972f6d-cf9d-48b1-a262-82bbedbe929d.png)
+## Impression [Language Setting English]  
 ![Image2_EN_NHCC_640](https://user-images.githubusercontent.com/70529267/178275056-f04a9bfb-1c80-4330-a265-0d294b27f32b.png)
 <br>
 <br>
-## アプリケーションの入手
+## ⬇アプリケーションの入手
 最新版は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/releases)からダウンロードできます。
 <br>
 <br>
-## バグ・要望
+## 🐞バグ・要望
 バグや要望は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/issues)からお気軽にどうぞ。
 <br>
 <br>
-## 連絡先
+## 🤝連絡先
 [@imotchi0112_vr](https://twitter.com/imotchi0112_vr)
 <br>
 <br>
-## インストールについて
-### 1.ダウンロードしたZipファイルを解凍し、デスクトップなど任意の場所に設置して起動してください。
-※「Program Files(x86)」などのフォルダで書き込み権限が制限されている場合は正常に動作しません。Cドライブ直下やデスクトップなどに配置してください。
+## 🔎インストール方法やその他操作方法など
+
+こちらの[Wiki](https://github.com/imotchi1214/NeosVRHeadlessClientControl/wiki)をご確認ください。
 <br>
 <br>
-### 2.「NHCC」フォルダの「NeosVRHeadlessClientControl.exe」を実行してください。
-「windowsによってpcが保護されました」と表示された場合は、「詳細情報」のリンクをクリックすることで「実行」ボタンが表示されます。
+## 📷NHCCの紹介
+<br>
+Note：[記事](https://note.com/imotchi0112/n/n6f011171e77d)
 <br>
 <br>
-## NHCCの紹介記事
-Noteの記事
-https://note.com/imotchi0112/n/n6f011171e77d  
+Twitter：[ツイート](https://twitter.com/imotchi0112_vr/status/1474756760410161155?s=20&t=latkZwSpfP7r0xoYz23fGA)
 <br>
-Tweet
-https://twitter.com/imotchi0112_vr/status/1474756760410161155?s=20&t=latkZwSpfP7r0xoYz23fGA
+<br>
 <br>
 <br>
 ＜以下、英語の同内容＞
