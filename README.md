@@ -10,7 +10,7 @@ Japanese followed by English.
 <br>
 ## 🖼イメージ  
 ![Image1_JA_NHCC_640](https://user-images.githubusercontent.com/70529267/177363902-19972f6d-cf9d-48b1-a262-82bbedbe929d.png)
-## Impression [Language Setting English]  
+## 🖼Impression [Language Setting English]  
 ![Image2_EN_NHCC_640](https://user-images.githubusercontent.com/70529267/178275056-f04a9bfb-1c80-4330-a265-0d294b27f32b.png)
 <br>
 <br>
@@ -22,7 +22,7 @@ Japanese followed by English.
 バグや要望は[こちら](https://github.com/imotchi1214/NeosVRHeadlessClientControl/issues)からお気軽にどうぞ。
 <br>
 <br>
-## 🤝連絡先
+## ✉連絡先
 [@imotchi0112_vr](https://twitter.com/imotchi0112_vr)
 <br>
 <br>
